@@ -14,7 +14,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url("rui.jpg")no-repeat;
+    background: url("gui.jpg")no-repeat;
     -moz-background-size: cover;
     background-position: center;
     -webkit-background-cover: cover;
